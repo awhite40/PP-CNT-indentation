@@ -1,13 +1,13 @@
 # Site settings
 # Update all variables under site settings.
-title: Project Pages # Update the name of your project
+title: Indentation on Polypropylene and Carbon Nanotube Composites # Update the name of your project
 header-img: img/home-bg.jpg # Add a photo related to your project
-email: your-email@yourdomain.com #Update your email address
-description: "A Collaborately Research Blog Tool" # Update description of your project
-baseurl: "/project-pages" # Update to "/<name of your repository>"
-url: "http://materialsinnovation.github.io" # Update to "http://<github username>.github.io"
-github_username:  materialsinnovation # Update to your <github_username>
-project_repository: project-pages # Update to your <repository name>
+email: awhite40@gatech.edu #Update your email address
+description: "An investigation of the local mechanical properties of Polypropylene and Carbon Nanotube composites." # Update description of your project
+baseurl: "/PP-CNT-indentation" # Update to "/<name of your repository>"
+url: "http://awhite40.github.io" # Update to "http://<github username>.github.io"
+github_username:  awhite40 # Update to your <github_username>
+project_repository: PP-CNT-indentation # Update to your <repository name>
 
 # Build settings
 # Don't change these variables
