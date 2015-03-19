@@ -1,7 +1,7 @@
 # Site settings
 # Update all variables under site settings.
 title: Indentation on Polypropylene and Carbon Nanotube Composites # Update the name of your project
-header-img: img/home-bg.jpg # Add a photo related to your project
+header-img: https://dl.dropboxusercontent.com/u/56639112/Github%20images/2pt_stats.png # Add a photo related to your project
 email: awhite40@gatech.edu #Update your email address
 description: "An investigation of the local mechanical properties of Polypropylene and Carbon Nanotube composites." # Update description of your project
 baseurl: "/PP-CNT-indentation" # Update to "/<name of your repository>"
