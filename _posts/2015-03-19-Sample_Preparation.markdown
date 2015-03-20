@@ -5,7 +5,6 @@ date:       2015-03-19 12:00:00
 author:     Alicia White
 ---
 
-## Sample Preparation
 
 To prepare the samples for indentation, the samples were first placed on an epoxy mount.  Then mechanical ploshing was done with 1200-4000 grit paper, lubricated with water for 1-2 mins each to remove the top layer of polymer found near the mold surface.  Then polishing was done with 1 um diamond suspension to remove scratches and create a uniform surface.  
 ![3 um polish](https://db.tt/Wsg3cHbS)
