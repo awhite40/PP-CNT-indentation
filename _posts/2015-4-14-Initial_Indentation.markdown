@@ -6,7 +6,7 @@ title: Initial Results of Indentation Tests on 1 wt%
 
 Indentation test were run with a 100um spherical indenter on the polished surface of a 1 wt% CNT sample.
 
-A tests were run at a rate of 0.5 {unit} and a rate of 0.05 {unit}.
+A tests were run at a rate of 0.5 and a rate of 0.05.
 
 Indentation results were evaluated using codes and methodology explained in this [post](http://tonyfast.com/nsf-goali/2015/01/22/NISSAA-Code-Structure/) by Jordan Weaver.
 
