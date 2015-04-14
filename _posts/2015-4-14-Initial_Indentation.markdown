@@ -51,11 +51,12 @@ And the resulting stress-strain curves were:
 
 As can be seen by examining the stress strain curves, the result is a range of values for the modulus.  
 For the 0.05 rate the modulus was determined as 2.9158 with a standard deviation of 0.2363.
-
 For the 0.5 rate the modulus was determined as 2.0833 with a standard deviation of 0.2269.
 
-There were a total of 9 tests for each rate.  Analysis of the remainder of the tests still needs to be done.  
-In order to understand variances between tests, analysis of the local volume fractions of the CNTs will be important.  I am looking at methods for determining this local property.  
+There were a total of 9 tests for each rate.  Analysis of the remainder of the tests still needs to be done.
+
+In order to understand variances between tests, analysis of the local volume fractions of the CNTs will be important.  I am looking at methods for determining this local property. 
+
 In addition test should now be run on the samples of different weight percentages to look at the variance between different samples.  
 
 
