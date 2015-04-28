@@ -3,7 +3,11 @@ layout: post
 author: Alicia White
 title: Initial Results of Indentation Tests on 1 wt%
 ---
-
+Addition 4-28-2015 
+Here are the load displacement curves for these tests:
+![0.05 Displacement](https://farm9.staticflickr.com/8824/17301544961_7a4ef89d89_z_d.jpg)
+![0.5 Displacement Rate](https://farm8.staticflickr.com/7679/17114250368_5f4781931d_z_d.jpg)
+![Displacement Rate Comparision](https://farm9.staticflickr.com/8700/17114466140_b860808222_z_d.jpg)
 Indentation test were run with a 100um spherical indenter on the polished surface of a 1 wt% CNT sample.
 
 A tests were run at a rate of 0.5 and a rate of 0.05.
