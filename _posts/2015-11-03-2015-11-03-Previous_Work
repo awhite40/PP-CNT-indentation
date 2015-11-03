@@ -1,0 +1,33 @@
+---
+layout:     	post
+title:      	Previous Work on PP-CNT composites
+date:       	2015-11-03 15:38
+author:     Alicia Rossi
+tags:         result
+---
+## Materials
+
+
+## Characterization 
+
+### Tensile Testing
+
+
+
+Tensile Properties above Tg
+![Tensile Properties above Tg](https://lh3.googleusercontent.com/-JbA894Xj3KM/VjkePGFCtyI/AAAAAAAAAXQ/jV82bKzxr6o/s0/Tensile+above+Tg.png "Tensile above Tg.png")
+
+|Nanotube|Modulus|Strength|
+|Wt. %| GPa | MPa |
+| 0 | 1.38+-0.04 | 33.14+-0.45 |
+| 1 | 1.55+-0.03 | 35.78+-0.43 |
+| 3 | 1.68+-0.05 | 38.2+-0.65 |
+| 5 | 1.87+-0.04 | 39.72+-0.83 |
+
+### SEM studies
+
+![enter image description here](https://lh3.googleusercontent.com/P2A0FKE-mhfEejF1_dZCWDDIPjBVrggnukdSzOcESVo=s0 "SEM-nanotubes-fracture.png")
+
+![enter image description here](https://lh3.googleusercontent.com/YGUuJ_IyVQzfqxQd29oVIlM0jCXTQlyD58omXgAAdNA=s0 "SEM-nanotubes_waviness.png")
+
+![enter image description here](https://lh3.googleusercontent.com/zr8nLW6H04dUa_8tjYw6eEwegziorpwQPr6dsP-3DZA=s0 "SEM-nanotubes_waviness_seg.png")
