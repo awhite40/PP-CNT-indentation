@@ -26,12 +26,12 @@ Tensile Properties above Tg
 The following table shows the changes in modulus and strength of the material with increasing reinforcement.  The data shows the expected trend of increasing modulus and strength with increasing reinforcement.  The largest increase can be seen with the addition of the first 1 wt % of CNT.  
 
 
-| Nanotube | Modulus | | Strength |
-| Wt. % | GPa | | MPa |
-| 0 |  1.38+-0.04  | |  33.14+-0.45  |
-| 1 |  1.55+-0.03  | | 35.78+-0.43  |
-| 3 |  1.68+-0.05  | |  38.2+-0.65  |
-| 5 |  1.87+-0.04  | |  39.72+-0.83  |
+| Nanotube | | Modulus | | Strength |
+| Wt. % | | GPa | | MPa |
+|    0 | |  1.38+-0.04  | |  33.14+-0.45  |
+|    1 | |  1.55+-0.03  | | 35.78+-0.43  |
+|    3 | |  1.68+-0.05  | |  38.2+-0.65  |
+|    5 | |  1.87+-0.04  | |  39.72+-0.83  |
 
 ### SEM studies
 
@@ -40,6 +40,7 @@ SEM studies were also performed to look at aggregation, voids and waviness of th
 Based on this data we expect to have a much larger variation in the indentation results of reinforced material compared to the neat polymer.
 
 References: 
+
 "Understanding the effect of CNT characteristics on the tensile modulus of CNT reinforced polypropylene using finite element analysis"
 MA Bhuiyan, RV Pucha, J Worthy, M Karevan, K Kalaitzidou Computational Materials Science 79, 368-376
  
