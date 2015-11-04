@@ -23,7 +23,9 @@ Tensile Properties above Tg
 ![Tensile Properties above Tg](https://lh3.googleusercontent.com/-JbA894Xj3KM/VjkePGFCtyI/AAAAAAAAAXQ/jV82bKzxr6o/s0/Tensile+above+Tg.png "Tensile above Tg.png")
 
 The following table shows the changes in modulus and strength of the material with increasing reinforcement.  The data shows the expected trend of increasing modulus and strength with increasing reinforcement.  The largest increase can be seen with the addition of the first 1 wt % of CNT.  
-|Nanotube | Modulus |Strength |
+
+
+Nanotube | Modulus |Strength
 | Wt. % | GPa | MPa |
 | 0 |  1.38+-0.04  |  33.14+-0.45  |
 | 1 |  1.55+-0.03  | 35.78+-0.43  |
