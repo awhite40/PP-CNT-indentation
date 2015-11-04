@@ -34,4 +34,11 @@ The following table shows the changes in modulus and strength of the material wi
 
 SEM studies were also performed to look at aggregation, voids and waviness of the reinforcements.  This representative image shows both agglomerates (red circles) and voids (red arrows).  
 ![enter image description here](https://lh3.googleusercontent.com/P2A0FKE-mhfEejF1_dZCWDDIPjBVrggnukdSzOcESVo=s0 "SEM-nanotubes-fracture.png")
-Based on this data we expect to have a much larger variation in the indentation results of reinforced material compared to the neat polymer. 
+Based on this data we expect to have a much larger variation in the indentation results of reinforced material compared to the neat polymer.
+
+References: 
+"Understanding the effect of CNT characteristics on the tensile modulus of CNT reinforced polypropylene using finite element analysis"
+MA Bhuiyan, RV Pucha, J Worthy, M Karevan, K Kalaitzidou Computational Materials Science 79, 368-376
+ 
+"Defining the lower and upper limit of the effective modulus of CNT/polypropylene composites through integration of modeling and experiments"
+MA Bhuiyan, RV Pucha, J Worthy, M Karevan, K Kalaitzidou Composite Structures 95, 80-87
